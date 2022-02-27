@@ -8,14 +8,15 @@ QR코드 기반 모바일 결제 시스템 (웹)
 
 # 기능
 
-1.Login 
+#### Login
+
 로그인 입니다.
 
 ![image](https://user-images.githubusercontent.com/49021626/155881831-1b6a5fb3-3d15-46e5-a29c-3a2b0195d232.png)
 
 
 
-2.mainpage
+2. mainpage
 주문 정보 확인 페이지와 상품 정보 확인페이지로 나뉩니다.
 
 ![image](https://user-images.githubusercontent.com/49021626/155881838-59b6c00d-dd09-4d13-9186-035d32987b64.png)
