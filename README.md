@@ -1,10 +1,15 @@
 QR코드 기반 모바일 결제 시스템 (웹)
+
+site: http://52.78.19.35/main_page.html
+
 # STACK
 1.APACHE
 
 2.PHP
 
 3.MySQL
+
+
 
 # 기능
 
